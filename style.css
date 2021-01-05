@@ -7,3 +7,21 @@ h1{
 .color-highlight{
     color: #34DFF6 ;
 }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width button{
+    padding: 10px 25px;
+    font-size: 20px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width img{
+    width: 100%;
+}
